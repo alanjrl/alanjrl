@@ -1,6 +1,6 @@
 # Hi, I'm Alan Rueda 👋
 
-Drupal Developer at [Lullabot](https://www.lullabot.com), working remotely from Ibarra, Ecuador 🇪🇨.
+Drupal Developer, working remotely from Ibarra, Ecuador 🇪🇨.
 
 I build and maintain Drupal platforms — currently helping keep a large public-sector multisite healthy, reviewing changes, catching regressions, and shipping features that hold up long after launch.
 
